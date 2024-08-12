@@ -2,8 +2,8 @@ import React from 'react'
 
 function About() {
   return (
-    <div className="about">
-        <img src="https://cms.accuweather.com/wp-content/uploads/2017/05/sunset.jpg" alt="" />
+    <div className="box">
+        <img src="https://knowmax-ai-website.s3.amazonaws.com/wp-content/uploads/2023/04/13203244/customer-service-information-accessibility.jpeg" alt="" />
     </div>
   )
 }

@@ -2,8 +2,8 @@ import React from 'react'
 
 function Blog() {
   return (
-    <div>
-        <h1>Blog</h1>
+    <div className="box">
+        <img src="https://incartmarketing.com/wp-content/uploads/blogging-SMB.png.png" alt="" />
     </div>
   )
 }
